@@ -14,6 +14,7 @@ Deployed URL : https://ps-xt-coding-assignment-2021.herokuapp.com/
 - [Setting up upstream repository](#setting-up-upstream-repository)
 - [Development and builds](#development-builds)
 - [Warning](#warning)
+- [Screenshots](#screenshots)
 
 
 ## <a name="prerequisites"></a> Prerequisites
@@ -148,3 +149,27 @@ constructor(element: ElementRef, renderer: Renderer2) {
   this.renderer.setStyle(element.nativeElement, 'font-size', 'x-large');
 }
 ```
+
+### <a name="screenshots"> App Screenshots"
+
+#### Initial Screen
+
+<img width="1440" alt="inital-screen" src="https://user-images.githubusercontent.com/5073214/111126799-1b555600-8599-11eb-8fc3-d02f287a6fc3.png">
+
+#### Screen With Filter Applied
+
+<img width="1440" alt="with-year-filters" src="https://user-images.githubusercontent.com/5073214/111126853-2a3c0880-8599-11eb-97bc-a8084f3420fb.png">
+
+#### Ipad Screen
+
+<img alt="ipad-screen" src="https://user-images.githubusercontent.com/5073214/111126836-260feb00-8599-11eb-888c-369b6799f3de.png">
+
+#### Mobile Screen
+
+<img alt="mobile-screen" src="https://user-images.githubusercontent.com/5073214/111126847-290adb80-8599-11eb-9da0-0968e6270c37.png">
+
+#### No Launch Screen
+
+<img width="1440" alt="No Launch Screen" src="https://user-images.githubusercontent.com/5073214/111126851-29a37200-8599-11eb-9c0c-e3ecb6be43b0.png">
+
+
